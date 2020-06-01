@@ -1,1 +1,9 @@
 tete do git
+
+git init
+git status
+
+ls -la
+
+git add .
+git commit -m "comentario"
